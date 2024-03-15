@@ -1,2 +1,2 @@
  
-![Light_ER_Diagram](images/example.png)
+![Light_ER_Diagram](Light_ER_Diagram.png)
